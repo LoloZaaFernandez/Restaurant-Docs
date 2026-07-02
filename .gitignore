@@ -1,0 +1,9 @@
+# Obsidian — personal settings (do NOT share)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/plugins/
+
+# OS
+.DS_Store
+Thumbs.db
